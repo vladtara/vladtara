@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @vladtara
-- 👀 I'm big fan of FP and cloud native
+# Hi there, I'm @vladtara 👋
 
-<!---
-vladtara/vladtara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a big fan of **functional programming** and **cloud-native** technologies.
+
+## 🚀 Featured projects
+
+- [glapsfun](https://github.com/glapsfun) — check it out
+- [terraapply](https://github.com/terraapply) — check it out
