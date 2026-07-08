@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @vladtara
-- 👀 I'm big fan of FP and cloud native
+# Hi there, I'm @vladtara 👋
 
-<!---
-vladtara/vladtara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an **AI engineer** and a big fan of **functional programming** and **cloud-native** technologies.
+
+## 🚀 Featured projects
+
+### Terraapply
+
+- [terraform-aws-ecs-tailscale](https://github.com/terraapply/terraform-aws-ecs-tailscale) — Terraform module for ECS with Tailscale integration
+
+### Glapsfun
+
+- [rune](https://github.com/glapsfun/rune) — utilities and experiments around functional programming concepts
+- [gskill](https://github.com/glapsfun/gskill) — skill-focused project for agent and workflow experimentation
+- [tflow](https://github.com/glapsfun/tflow) — workflow and task flow tooling experiments
+- [cnative-skills](https://github.com/glapsfun/cnative-skills) — cloud-native skill packs and related automation experiments
