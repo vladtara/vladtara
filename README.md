@@ -1,6 +1,6 @@
 # Hi there, I'm @vladtara 👋
 
-I’m an **AI engineer** and a big fan of **functional programming** and **cloud-native** technologies.
+I’m an **engineer** and a big fan of **functional programming** and **cloud-native** technologies.
 
 ## 🚀 Featured projects
 
